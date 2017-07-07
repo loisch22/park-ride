@@ -10,13 +10,8 @@ _{This is a detailed description of your application. Its purpose and usage.  Gi
 
 ## Setup/Installation Requirements
 
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
+* _Open web browser_
+* _Enter url_
 
 ## Known Bugs
 
@@ -24,14 +19,14 @@ _If user enters a height less than 55 and presses submit, the list of roller coa
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_loisch22@gmail.com_
 
 ## Technologies Used
 
-_{Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}_
+_Bootstrap, jQuery, JavaScript_
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*DO NOT COPY*
 
-Copyright (c) 2016 **_{List of contributors or company name}_**
+Copyright (c) 2017 **_{Lois C.}_**
