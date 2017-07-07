@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  background: #F7DC6F;
+}
+h1 {
+  letter-spacing: 12px;
+}
+.well {
+  margin: 20px;
+  background: #FEF9E7;
+}
+.well-lg {
+  background-color: #D1F2EB;
+}
+.height label {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+#submit {
+  margin-top: 20px;
+  padding: 10px 30px 10px 30px;
+  letter-spacing: 3px;
+}
+.tall img, .short img {
+  width: 250px;
+  height: 200px;
+  margin-bottom: 20px;
+}
+.tall h2, .short h2 {
+  margin-bottom: 40px;
+}
+.rideName {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+.tall, .short {
+  display: none;
+}
